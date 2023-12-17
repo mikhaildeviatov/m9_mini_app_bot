@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "latest-version": "^7.0.0",
+    "telegraf": "^4.15.3"
+  },
+  "name": "m9_mini_app_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
